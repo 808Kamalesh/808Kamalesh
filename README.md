@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Welcome to My GitHub Profile!<br><br>Hey there! I'm Kamalesh, a CSE student and developer. I love coding and football.
 
 ## 🌐 Socials:
